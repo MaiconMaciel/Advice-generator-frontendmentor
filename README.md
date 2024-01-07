@@ -12,7 +12,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](screenshots\desktopScreen.png)
+![](/screenshots/desktopScreen.png)
+![](/screenshots/mobileScreen.png)
+
 
 ### Built with
 
