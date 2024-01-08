@@ -29,6 +29,7 @@ body {
   padding: 20px;
   overflow: hidden;
   margin: 10vh;
+  margin-top: 22vh;
   border-radius: 15px;
   text-align: center;
   max-height: 100%;
@@ -64,8 +65,8 @@ body {
 
 @media (max-width: 450px) {
   .container {
-    min-width: 90vw;
-    padding: 5px;
+    max-width: 90vh;
+    min-width: 150px;
     max-height: 60%;
     margin: 15vh 3vh;
   }
@@ -73,7 +74,7 @@ body {
     font-size: 1.8rem;
   }
   .quote {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
   }
 }
 
